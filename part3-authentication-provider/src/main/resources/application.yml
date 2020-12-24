@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password: Qubaba8888....
+    url: jdbc:mysql://192.168.182.132:3306/spring-security
+  main:
+    allow-bean-definition-overriding: true
